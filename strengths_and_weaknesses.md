@@ -5,3 +5,6 @@
 -Collaboration with other people 
 
 # Weakness
+
+- Git can feel like a high barrier to entry for beginners.
+
